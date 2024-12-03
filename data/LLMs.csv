@@ -1,0 +1,81 @@
+name,owner,trained on x billion parameters,date,note / * = parameters undisclosed,link
+BERT,Google,0.34,Oct 2018,,https://en.wikipedia.org/wiki/BERT_(language_model)
+GPT-2,OpenAI,1.5,Feb 2019,trained on Reddit only,https://en.wikipedia.org/wiki/GPT-2
+T5,Google,11,Oct 2019,,https://arxiv.org/abs/1910.10683
+Megatron-11B,Meta / Facebook,11,Apr 2020,,https://github.com/pytorch/fairseq/tree/main/examples/megatron_11b
+BlenderBot1,Meta / Facebook,9.4,Apr 2020,,https://cobusgreyling.medium.com/meta-ais-blender-bot-3-0-is-an-open-source-chatbot-with-long-term-memory-internet-search-ce024a5fe8aa
+GPT-3,OpenAI,175,May 2020,,https://en.wikipedia.org/wiki/GPT-3
+Wu Dao 2.0,Beijing Academy of AI,1750,Jan 2021,,https://en.wikipedia.org/wiki/Wu_Dao
+GPT-J,EleutherAI,6,Jun 2021,,https://huggingface.co/EleutherAI/gpt-j-6b
+PanGu-Alpha,Huawei,200,Apr 2021,,https://arxiv.org/abs/2104.12369
+LaMDA,Google,137,Jun 2021,,https://en.wikipedia.org/wiki/LaMDA
+BlenderBot2.0,Meta / Facebook,9.4,Jul 2021,,https://cobusgreyling.medium.com/meta-ais-blender-bot-3-0-is-an-open-source-chatbot-with-long-term-memory-internet-search-ce024a5fe8aa
+Jurassic-1,AI21,178,Aug 2021,,https://www.ai21.com/blog/announcing-ai21-studio-and-jurassic-1
+Codex,OpenAI,12,Aug 2021,Generates programming code,https://arxiv.org/abs/2107.03374
+FLAN,Google,137,Sep 2021,,https://arxiv.org/abs/2109.01652
+PLATO-XL,Baidu,11,Sep 2021,chatbot,https://arxiv.org/abs/2109.09519
+WeLM,WeChat,10,Sep 2022,87% chinese language,https://arxiv.org/abs/2209.10372
+xlarge,Cohere,52.4,Sep 2021,"Trained on ""ebooks and webpages""",https://arxiv.org/abs/2108.07790
+Megatron-Turing NLG,Meta / Facebook,530,Oct 2021,,https://developer.nvidia.com/megatron-turing-natural-language-generation
+MT-NLG,Microsoft,530,Oct 2021,,https://arxiv.org/abs/2201.11990
+BERT-200,Google,200,Nov 2021,,https://cloud.google.com/blog/topics/tpus/google-showcases-cloud-tpu-v4-pods-for-large-model-training (same as above)
+BERT-480,Google,480,Nov 2021,,https://cloud.google.com/blog/topics/tpus/google-showcases-cloud-tpu-v4-pods-for-large-model-training
+Luminous,Aleph Alpha,200,Nov 2021,German-language,https://www.aleph-alpha.de/pricing
+Ernie 3.0 Titan,Baidu,260,Dec 2021,,https://www.marktechpost.com/2021/12/29/baidu-and-pcl-team-introduce-ernie-3-0-titan-a-pre-training-language-model-with-260-billion-parameters/
+GLaM,Google,1200,Dec 2021,,https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html
+Gopher,Google Deepmind,280,Dec 2021,,https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval
+GPT-NeoX,EleutherAI,20,Feb 2022,,https://huggingface.co/docs/transformers/model_doc/gpt_neox
+GPT Neo,EleutherAI,2.7,Feb 2022,,https://huggingface.co/docs/transformers/model_doc/gpt_neo
+Chinchilla,DeepMind,70,Mar 2022,,https://arxiv.org/abs/2203.15556v1
+CodeGen,Salesforce,16,Mar 2022,Generates programming code,https://arxiv.org/abs/2203.13474
+InCoder,Meta,6.7,Apr 2022,generates python and javascript,https://arxiv.org/abs/2204.05999
+mGPT,Sber,13,Apr 2022,60 languages,https://arxiv.org/abs/2204.07580
+PaLM,Google,540,Apr 2022,,https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html
+OPT-IML,Meta AI,175,May 2022,,https://arxiv.org/abs/2212.12017
+Minerva,Google,540,Jun 2022,,https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html
+YaLM 100B,Yandex,100,Jun 2022,Russian / English,https://huggingface.co/yandex/yalm-100b
+BLOOM,BigScience,175,Jul 2022,,https://huggingface.co/bigscience/bloom
+FIM 6.9B,OpenAI,6.9,Jul 2022,,https://arxiv.org/pdf/2207.14255.pdf
+NLLB-200,Meta AI,54.5,Jul 2022,200 language translation ,https://ai.facebook.com/blog/nllb-200-high-quality-machine-translation/
+GLM-130B,Tsinghua & Zhipu,130,Aug 2022,,https://huggingface.co/spaces/THUDM/GLM-130B
+Atlas,Meta,11,Aug 2022,,https://arxiv.org/abs/2208.03299
+BlenderBot3,Meta / Facebook,175,Aug 2022,,https://cobusgreyling.medium.com/meta-ais-blender-bot-3-0-is-an-open-source-chatbot-with-long-term-memory-internet-search-ce024a5fe8aa
+AlexaTM,Amazon,20,Aug 2022,trained on Wikipedia and mC4 only,https://www.amazon.science/blog/20b-parameter-alexa-model-sets-new-marks-in-few-shot-learning
+PaLI,Google,17,Sep 2022,Vision model,https://arxiv.org/abs/2209.06794
+Sparrow,Google,70,Sep 2022,powered by Chincilla,https://en.wikipedia.org/wiki/Sparrow_(bot)
+MT5,Google,13,Oct 2022,101 languages,https://huggingface.co/google/mt5-base
+Galactica,Meta / Facebook,120,Nov 2022,scientific only,https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/
+ChatGPT,OpenAI,12,Nov 2022,,https://en.wikipedia.org/wiki/ChatGPT
+RL-CAI,Anthropic,52,Dec 2022,,https://lifearchitect.ai/anthropic/
+Exaone,LG,300,Dec 2022,,https://sourceforge.net/software/product/EXAONE/
+GPT 3.5,OpenAI,175,Dec 2022,,https://openai.com/blog/chatgpt
+WebGPT,Open AI / Microsoft,175,Jan 2023,,https://openai.com/research/webgpt
+Claude,Anthropic,52,Jan 2023,,https://arstechnica.com/information-technology/2023/03/anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt/
+LLaMa,Meta / Facebook,65,Feb 2023,,https://ai.facebook.com/blog/large-language-model-llama-meta-ai/
+Luminous Supreme,Aleph Alpha,70,Feb 2023,German-language,https://docs.aleph-alpha.com/docs/introduction/prompting_and_completion/#zero-shot-learning-with-luminous-supreme-control
+PanGu-Sigma,Huawei,1085,Mar 2023,,https://arxiv.org/abs/2303.10845
+Bard*,Google,0.7,Feb 2023,powered by LaMDA,https://techmonitor.ai/technology/ai-and-automation/google-i-o-bard-chatbot-llm-palm2-gemini
+Alpaca,Stanford,7,Mar 2023,,https://github.com/tatsu-lab/stanford_alpaca
+BloombergGPT,Bloomberg,50,Mar 2023,Finance-focussed (of course),https://arxiv.org/abs/2303.17564
+Cerebras-GPT,Cerebras,13,Mar 2023,open-source,https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/
+Ernie Bot,Baidu,200,Dec 2021,,https://www.prnewswire.com/news-releases/baidu-unveils-ernie-bot-the-latest-generative-ai-mastering-chinese-language-and-multi-modal-generation-301774240.html
+GPT-4*,OpenAI,1000,Mar 2023,,https://en.wikipedia.org/wiki/GPT-4
+GPT4All-LoRA,Nomic,7,Mar 2023,open source chatbot based on LLaMa,https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf
+Jurassic-2*,AI21,200,Mar 2023,,https://thenewstack.io/ai21-labs-releases-jurassic-2-its-new-large-language-model/
+Koala-13B,Berkeley,13,Apr 2023,Based on LLaMA,https://bair.berkeley.edu/blog/2023/04/03/koala/
+StableLM,Stability AI,65,Apr 2023,open-source from the makers of Stable Diffusion,https://github.com/stability-AI/stableLM/
+Dolly 2.0,Databricks,12,Apr 2023,open-source,https://arstechnica.com/information-technology/2023/04/a-really-big-deal-dolly-is-a-free-open-source-chatgpt-style-ai-model/
+SenseChat,SenseTime,200,Apr 2023,,https://www.silicon.co.uk/e-innovation/artificial-intelligence/sensetime-ai-505764
+Titan,Amazon,350,Apr 2023,,https://aws.amazon.com/bedrock/titan/
+Tongyi Qianwen,Alibaba,200,Apr 2023,"name roughly translates to “truth from a thousand questions,”",https://www.theregister.com/2023/04/11/alibaba_tongyi_qianwen_llm/
+Hugging Chat,LAION,30,Apr 2023,,https://techcrunch.com/2023/04/25/hugging-face-releases-its-own-version-of-chatgpt/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnNsYXNoZG90Lm9yZy8&guce_referrer_sig=AQAAAAykGMvXCA4mB45v7uwolZNOHKsD8v0oCXuvA_ODzNeQYDZSu_-gosaiEklXgzcJrzmgiNapj8m3WQ7gmE8auQxFEIKokjxYpdx7TXhOimIuz0Dww2I7ceB29AYZHtxkD4wfgA8BN4aB5CR3L9aVOLjXXiiCHDmCvhBr9I8xwLAo
+BingChat*,Microsoft / OpenAI,1000,Apr 2023,Microsoft's version of ChatGPT,https://www.zdnet.com/article/how-to-use-the-new-bing-and-how-its-different-from-chatgpt/
+PaLM2,Google,540,May 2023,"Trained on 100 languages and 20 programming languages. Google says the new model is better at common sense reasoning, mathematics and logic",https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/
+Vicuna-13B,Vicuna Team,65,Mar 2023,an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT,https://lmsys.org/blog/2023-03-30-vicuna/
+Falcon LLM,Technology Innovation Institute,40,Jun 2023,foundational large language model (LLM) with 40 billion parameters trained on one trillion tokens,https://falconllm.tii.ae/
+Sail-7B,Open Language Safety Research,7,Jun 2023,search engine-grounded large language model based on LLama-7B,https://openlsr.org/sail-7b
+Web LLM,Independent,7,Jun 2023,Browser-based LLM Chatbot,https://simonwillison.net/2023/Apr/16/web-llm/
+OpenLLM,Independent,13,Jun 2023,,https://huggingface.co/openlm-research/open_llama_13b_easylm
+Ernie Bot 3.5,Baidu,200,July 2023,Surpassing ChatGPT (3.5) in comprehensive ability scores and outperforming GPT-4 in several Chinese language capabilities - and supporting plugins.,http://research.baidu.com/Blog/index-view?id=185
+Claude 2,Anthropic,52,July 2023,"Expanded input and output length (up to 100,00 tokens) allowing the AI model to analyze long documents such as technical guides or entire books",https://arstechnica.com/information-technology/2023/07/new-chatgpt-rival-claude-2-launches-for-open-beta-testing/
+LLaMa2,Facebook,70,July 2023,"Open source LLM comes in 3 parameter sizes - 7, 30, and 70 bn",https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/
