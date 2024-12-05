@@ -1,0 +1,61 @@
+Mohammed Arbi Nsibi
+ICT engineering Student At SUP’COM
+♂¶obile+216 29 051 246 mohammedarbi.nsibi@supcom.tn /h⌢meAriana, Tunis
+/linkedinin/mohammed-arbi-nsibi /githubgithub.com/Goodnight77
+PROFILE
+As a second-year ICT engineering student and the lead of the Google Developer Student Club at SUP’COM, I am
+passionate about machine learning and deep learning. I am actively seeking opportunities to expand my skills and connect
+with professionals in these fields. My leadership experience and technical expertise drive my ambition to contribute
+innovative solutions and achieve excellence in technology.
+EDUCATION
+ICT Engineer’s degree Higher school of communication (SUP’COM) 2022-2024
+•Principal coursework : Probability, Statistical inference, Algorithmic Foundations of Optimization, Cloud, Big Data,
+Data science, Artificial intelligence.
+Degree in Physics and Chemistry Preparatory Institute For Engineering Studies of TUNIS (IPEIT) 2020-2022
+•Ranked 70/1400 in the national engineering selective exams.
+PROFESSIONAL EXPERIENCE
+Machine Learning Engineer, Intern, IEEE Tunisia Section Tunis, Tunisia 07/2023 - 09/2023
+•Developed machine learning models for the automated verification of invoice validity by analyzing date, stamp, and signature
+data. Designed and implemented an advanced data entry system to streamline processing. Utilized data analytics and anomaly
+detection techniques to identify and mitigate potential fraud risks .
+PROJECTS
+Music Recommendation Based on Face Emotion Recognition, 05/2024
+•Currently working on designing a unique music suggestion tool that uses facial expression analysis to recommend songs matching
+users’ current moods.
+Securing Medical Images transfert using Encryption and Steganography (Academic project) 05/2024
+•This project make sure the secure transfer of medical images and patient data through efficient deep steganography and
+cryptography methods.
+Kidney Classification App, Python, Tensorflow, Flask, Docker, Mlfow, DVC, AWS 02/2024
+•An end-to-end deep learning project consisting of creating a web app for kidney disease classification, where I learned and
+implemented some MLOps concepts.
+ParkPay, Flask, Flutter, Yolov6, (Academic project) 01/2024
+•Developed a mobile app revolutionizing parking payments by enabling seamless online transactions, eliminating the need for
+traditional parking machines.
+Deep fake Forensics Challenge, (Challenge) 12/2023
+•Participated in the IEEE CS - YP TSYP Challenge, replicating and enhancing deepfake detection methods based on the paper
+Shallow- and Deep-fake Image Manipulation Localization Using Deep Learning.
+AWARDS
+First prize in the TSYP CS Challenge, IEEE ESSTHS Student Branch and IEEE Tunisia Section 12/2023
+Ranked 6th in Open GeoAI Hack, IEEE GRSS Chapter 11/2023
+Best PACTE project in SUP’COM, SUP’COM 07/2022
+VOLUNTEERING
+Lead of Google Developer Student Clubs (GDSC), SUP’COM 2023/2024
+•As GDSC lead, organized over 30 workshops spanning diverse fields such as AI, web development, and cloud computing.
+Additionally, facilitated 3 online Kaggle competitions to engage and empower fellow students in technology and data science.
+General Secretary of IEEE SUP’COM Computer Society Chapter SUP’COM 2023/2024CERTIFICATIONS
+Docker-SWARM-SERVICES-STACKS-Hands-on, KodeKloude 04/2024
+Deep Learning with PyTorch: Image Segmentation, Coursera 07/2023
+Deep Learning Specialization, Deeplearning.Ai 04/2023
+Machine Learning Specialization, Deeplearning.Ai 11/2022
+SKILLS SUMMARY
+•Machine Learning:
+Linear Regression, Logistic Regression, Bayesian
+networks, Decision trees, Random forest,
+Clustering (K-Means, Hierarchal),Gradient
+decent, SVM, (CNN, RNN, ANN) usingTensorFlow (Keras).
+•Programming Languages:
+(Proficient) : C, C++, Python,
+(Familiar) : JavaScript, Matlab
+LANGUAGES
+•English (Professional proficiency, TOIEC 905/990 point
+B2(2024))•Arabic (Native proficiency)
