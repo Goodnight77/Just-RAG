@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+python-dotenv
+faiss-cpu
+openai
+duckduckgo-search
+pydantic<2.0
+PyMuPDF
+tqdm
+ipykernel
+notebook
+langchain-groq

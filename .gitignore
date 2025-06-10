@@ -1,2 +1,9 @@
 .env
 myenv
+rag_techniques/.env
+voice_assistant/.env
+Voice-assistant-kb
+/graphrag
+.venv
+reranking.ipynb
+setup.sh
