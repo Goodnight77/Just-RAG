@@ -7,7 +7,7 @@ reranking.ipynb
 setup.sh
 qdrant/ains_text_structured.txt
 
-rag_techniques
+
 qdrant/ains_data.txt
 
 qdrant/ains_data.txt
@@ -15,8 +15,7 @@ qdrant/ains_data.txt
 qdrant/ains_data.txt
 
 qdrant/qdrant.ipynb
-
-
+rag_techniques
 
 
 
