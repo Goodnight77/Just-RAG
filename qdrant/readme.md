@@ -23,7 +23,8 @@ To set up your environment:
 1. **Clone or download** this project to your local machine.
 2. Ensure `ains3_0.txt` is located in the `qdrant` folder.
 3. Open `Qdrant_talk.ipynb` using Jupyter Notebook, JupyterLab, or **Google Colab**.
-
+4. If you are using it locally don't forget to make a **.env** file with your credentials : **QDRANT_URL** **QDRANT_API_KEY** **GROQ_API_KEY**
+ 
 ## Getting Started
 
 You have a few options to run this project:
@@ -51,7 +52,7 @@ jupyter lab
 
 You can also run this notebook directly in Google Colab, which provides a free, cloud-based Jupyter environment.
 
-1. Open the notebook directly in Colab using this link: https://colab.research.google.com/drive/1TeZfj600xamgkM91B9mJphPAZ47F6mzC?usp=sharing
+1. Open the notebook directly in Colab 
 2. Once opened in Colab, you may need to upload the `ains3_0.txt` file manually to the Colab environment's file system or adjust the path in the notebook to fetch it from a public source (e.g., GitHub) if it's hosted there.
 3. Execute each cell in the notebook. Colab will handle the installation of required packages automatically.
 
