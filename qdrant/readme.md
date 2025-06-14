@@ -7,7 +7,7 @@ This project demonstrates the capabilities of Qdrant, a powerful vector similari
 The core components of this project are organized as follows:
 
 * `qdrant/`: This directory contains all the project files, including:
-   * `Qdrant_talk.ipynb`: The Jupyter Notebook containing the main code, explanations, and instructions for running the project.
+   * `Qdrant_talk.ipynb`: The Jupyter Notebook containing the main code, explanations, and instructions for running the project. (if you find the notebook invalid just dowwnload it locally)
    * `ains3_0.txt`: The primary dataset used for vectorization and search operations.
 
 ## Data
