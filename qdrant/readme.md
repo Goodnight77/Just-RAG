@@ -71,5 +71,4 @@ Special thanks to AINS3.0 Organizers for the opportunity to conduct this talk.
 ## License
 This project is open-source. Feel free to modify and extend it!
 
-- You want to connect or you have questions? Feel free to DM me on Linkedin: [Mohammed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
-=======
+- You want to connect or you have questions? Feel free to DM me on Linkedin: [Mohamed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)

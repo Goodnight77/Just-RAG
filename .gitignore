@@ -14,5 +14,6 @@ qdrant/app.py
 
 qdrant/runnable_script.py
 ./data
+data 
 
 qdrant/.python-version
