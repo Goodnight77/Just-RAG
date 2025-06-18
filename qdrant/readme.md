@@ -7,7 +7,7 @@ This project demonstrates the capabilities of Qdrant, a powerful vector similari
 The core components of this project are organized as follows:
 
 * `qdrant/`: This directory contains all the project files, including:
-   * `Qdrant_talk.ipynb`: The Jupyter Notebook containing the main code, explanations, and instructions for running the project.
+   * `Qdrant_talk.ipynb`: The Jupyter Notebook containing the main code, explanations, and instructions for running the project. (if you find the notebook invalid just dowwnload it locally)
    * `ains3_0.txt`: The primary dataset used for vectorization and search operations.
    * [`quick_guide_qdrant.md`](quick_guide_qdrant.md): a quick guide on how to set up and work with qdrant.
 
@@ -72,3 +72,4 @@ Special thanks to AINS3.0 Organizers for the opportunity to conduct this talk.
 This project is open-source. Feel free to modify and extend it!
 
 - You want to connect or you have questions? Feel free to DM me on Linkedin: [Mohammed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
+=======
