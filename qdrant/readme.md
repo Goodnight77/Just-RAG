@@ -9,6 +9,7 @@ The core components of this project are organized as follows:
 * `qdrant/`: This directory contains all the project files, including:
    * `Qdrant_talk.ipynb`: The Jupyter Notebook containing the main code, explanations, and instructions for running the project.
    * `ains3_0.txt`: The primary dataset used for vectorization and search operations.
+   * [`quick_guide_qdrant.md`](quick_guide_qdrant.md): a quick guide on how to set up and work with qdrant.
 
 ## Data
 
@@ -48,12 +49,26 @@ jupyter lab
    * Populating a Qdrant collection.
    * Performing vector similarity searches.
 
-### Option 2: Google Colab
+### Option 2: Google Colab (easiest way to start)
 
 You can also run this notebook directly in Google Colab, which provides a free, cloud-based Jupyter environment.
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TeZfj600xamgkM91B9mJphPAZ47F6mzC?usp=sharing)
 1. Open the notebook directly in Colab 
 2. Once opened in Colab, you may need to upload the `ains3_0.txt` file manually to the Colab environment's file system or adjust the path in the notebook to fetch it from a public source (e.g., GitHub) if it's hosted there.
-3. Execute each cell in the notebook. Colab will handle the installation of required packages automatically.
+3. Don't forget to put your API keys (qdrant and GROQ)
+4. Execute each cell in the notebook. Colab will handle the installation of required packages automatically.
 
 **Enjoy exploring Qdrant!**
+
+## Additional Notes
+- You need to use GROQ API, you can get an API key from [GROQ's official website](https://console.groq.com/keys) and configure it in your environment.
+- Modify the notebook as needed to experiment with different retrieval and generation approaches.
+
+## Acknowledgment
+
+Special thanks to AINS3.0 Organizers for the opportunity to conduct this talk.
+
+## License
+This project is open-source. Feel free to modify and extend it!
+
+- You want to connect or you have questions? Feel free to DM me on Linkedin: [Mohammed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)

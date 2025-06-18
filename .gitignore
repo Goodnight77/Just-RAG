@@ -6,21 +6,13 @@ Voice-assistant-kb
 reranking.ipynb
 setup.sh
 qdrant/ains_text_structured.txt
-
-
-qdrant/ains_data.txt
-
-qdrant/ains_data.txt
-
 qdrant/ains_data.txt
 
 qdrant/qdrant.ipynb
 rag_techniques
 qdrant/app.py
 
+qdrant/runnable_script.py
+./data
 
-qdrant/quick_guide_qdrant.md
-
-
-
-
+qdrant/.python-version
