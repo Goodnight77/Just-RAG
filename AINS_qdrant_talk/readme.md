@@ -1,8 +1,16 @@
 # Qdrant Vector Search Project
 
-This project demonstrates the capabilities of Qdrant, a powerful vector similarity search engine. It processes textual data to create vector embeddings and enables efficient similarity searches.
+This project demonstrates the capabilities of two core technologies:
+
+- **Qdrant**: a powerful vector similarity search engine for efficient vector storage and similarity search.
+- **LangChain**: a flexible framework for building and managing language model chains and retrieval-augmented generation (RAG) workflows.
+
+It processes textual data to create vector embeddings, enables efficient similarity searches, and leverages language models for advanced retrieval and generation tasks.
 
 ## Project Structure
+
+
+The project uses the [LangChain](https://python.langchain.com/) library for building and managing language model chains.
 
 The core components of this project are organized as follows:
 
