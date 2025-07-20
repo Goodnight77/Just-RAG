@@ -1,0 +1,532 @@
+
+
+
+Organizing committe of AINS 2.0 
+[
+  {
+    "name": "Adem Jerbi",
+    "position": "OC President"
+  },
+  {
+    "name": "Issra Brini",
+    "position": "Participation Manager"
+  },
+  {
+    "name": "Ghaith Rouahi",
+    "position": "Accomodation Manager"
+  },
+  {
+    "name": "Mahdi Kacem",
+    "position": "Contact Manager"
+  },
+  {
+    "name": "Youssef Abbes",
+    "position": "Logistics Manager"
+  },
+  {
+    "name": "Eya Belkhodja",
+    "position": "General Secretary"
+  },
+  {
+    "name": "Yessine Turki",
+    "position": "Treasurer & Finance Manager"
+  },
+  {
+    "name": "Raed Addala",
+    "position": "Technical Activities Manager"
+  },
+  {
+    "name": "Hanine Khemir",
+    "position": "Social Activities Manager"
+  },
+  {
+    "name": "Mayess Boussaada",
+    "position": "Community Manager"
+  },
+  {
+    "name": "Ayoub Akremi",
+    "position": "Audio-Visual Manager"
+  },
+  {
+    "name": "Rayen Hamza",
+    "position": "Event Content Manager"
+  },
+  {
+    "name": "Yosr Attia",
+    "position": "Communication Manager"
+  }
+]
+Ambassadors : 
+[
+  {
+    "name": "Amira Dhouib",
+    "position": "Ambassador",
+    "from": "IEEE ISI SB"
+  },
+  {
+    "name": "Ahmed Bouhlel",
+    "position": "Ambassador",
+    "from": "IEEE ESPRIT SB"
+  },
+  {
+    "name": "Kmar Turki",
+    "position": "Ambassador",
+    "from": "IEEE FSS SB"
+  },
+  {
+    "name": "Ahmed Yessine Bessrour",
+    "position": "Ambassador",
+    "from": "IEEE ISET RADES SB"
+  },
+  {
+    "name": "Nadhem Benhadjali",
+    "position": "Ambassador",
+    "from": "IEEE ENSI SB"
+  },
+  {
+    "name": "Mohamed Amine Maalej",
+    "position": "Ambassador",
+    "from": "IEEE FST SB"
+  },
+  {
+    "name": "Ranim Abdmouleh",
+    "position": "Ambassador",
+    "from": "IEEE ENIT SB"
+  },
+  {
+    "name": "Zeineb Louati",
+    "position": "Ambassador",
+    "from": "IEEE SUP'COM SB"
+  },
+  {
+    "name": "Rihab Marnissi",
+    "position": "Ambassador",
+    "from": "IEEE ENICARTHAGE SB"
+  },
+  {
+    "name": "Wiem Zeramdini",
+    "position": "Ambassador",
+    "from": "IEEE POLYTECH MONASTIR SB"
+  }
+]
+
+
+The long-awaited moment has arrived! You can now secure your spot and join us. Simply fill out the form below. 💜
+Please ensure you carefully read the instructions provided in the description!
+Your place will only be secured if all your roommates have completed the payment procedure.
+https://forms.gle/paLevRznNeSeLkds6
+#Artificial_Intelligence_National_Summit
+#Powered_By_Human_Intelligence
+#AINS2024
+#IEEE_INSAT_CS_SBC
+
+Join us for an exclusive info session about the upcoming Artificial Intelligence National Summit (AINS 2.0) led by our ambassador, Ibaa Belhadj!
+Learn all about the event's highlights, including the hackathon and data science competition, and how you can get involved. 💜
+🗓️ Date: Friday, May 17th 
+🕗 Time: 8 PM 
+📍 Meeting Link: https://meet.google.com/rwu-hkoe-qmm?authuser=0 
+
+Find out more about our congress on the website! 💜
+https://aisummit.tn/
+
+
+We extend our heartfelt thanks to Elyadata, our official sponsor, for their support! 
+Introducing ZINDI as the official partner of our upcoming data science competition. We thank them for their collaboration! 💜
+We're excited to welcome Ami Assurances as a partner. We appreciate their support! 
+Thank you Insat Press for your support! 
+
+
+speakers : 
+Introducing our first speaker: Mr. Elyes Manai! Stay tuned for his upcoming talk at the event. You won't want to miss it! 💜
+Mr. Elyes Manai will discuss 'Explainable AI Agents,' sharing his expertise and knowledge on the topic. 💜
+
+#Artificial_Intelligence_National_Summit
+#Powered_By_Human_Intelligence
+
+
+Introducing our speaker : Mr. Hafedh Hichri. Get ready to dive into the insightful talk he's prepared! 💜
+Mr. Hafedh Hichi will present an 'Introduction to HuggingFace Agents,' a fascinating topic you won't want to miss! 💜
+Introducing our esteemed speaker and instructor, Mrs. Besma Guesmi. You won't want to miss what she has to say! 💜
+Due to popular demand, we've delivered! Mrs. Besma Guesmi will present a workshop on 'Hands-on genAI for Computer Vision'. Don't miss it! 💜
+Mr. Besma Guesmi will be 'Bringing genAI to space' and blowing your minds with her talk. Don't miss out! 💜
+Ankit Garg is a serial entrepreneur in the AI industry, currently operating 3 GenAI ventures based out of Switzerland - Silver Brain AI, Celsius AI and ChemAssist AI focusing on expert knowledge work automation, AI trustworthiness, security and compliance. He has also been an investor in early-stage deep tech space bridging the gap between European and Indian entrepreneurial ecosystems. Previously, he has served on various leadership positions at large corporates profitably growing multimillion P&Ls in the chemical and healthcare industries. Ankit is an engineering graduate from IIT Delhi, India with professional education on AI and business strategy from MIT, US.
+
+Don't miss out on an insightful talk session with Mr. Ankit Garg, our distinguished speaker, as he shares his expertise and knowledge in the field. 💜
+
+Mr. Ankit Garg will discuss 'Ground Truths : Unpacking First Principle Challenges of genAI Agents'. Buckle up for a fascinating topic! 💜
+Introducing our speaker, Mr. Jawher Jabri. He will be discussing a fascinating topic—don't miss it! 💜
+Don't miss Mr. Jawher Jabri's insightful talk on 'LLM Agents'. He'll bring a wealth of knowledge and expertise to the table! 💜
+ instructor : 
+Meet our instructor, Mrs. Oumeima Aouadi. Don't miss the opportunity to hear her insights! 💜
+Our second workshop, presented by Mrs. Oumeima Aouadi, will offer an 'Introduction to genAI'. 💜
+
+Oumeima Aouadi is a data consultant at EY's technology solution delivery consulting practice. Her expertise lies in building and maintaining business intelligence solutions, with a strong passion for AI. She has further extended her AI expertise by conducting machine learning workshops within the student community.
+
+
+
+Join us for team-building activities led by The Game Production, they have plenty of games and fun to offer! 💜
+
+We are thrilled to announce the winners of our competitions! 🎉🏆
+Data Science Competition:
+1st Place: Achref54637 - Achref Ben Ammar 🥇
+2nd Place: THO - Montassar Barguougui, Mohamed Dhia Mnasri 🥈
+2nd Place: Janda9li - Wissem Yousfi, Zakaria Soussi, Adam Fendri 🥈
+**The scores were tied, so both teams came in second.
+Hackathon:
+1st Place: The Two Agents - Karim Aloulou, Nadia Bedhiafi 🥇
+2nd Place: Paranoid Android - Mohamed Amine Haouas, Achref Ben Ammar, Fayez Zouari, Kacem Mathlouthi 🥈
+3rd Place: FoxP - Youssef Fadhloun, Rayen Besbes, Alaeddine Zawali, Iyed Mdimegh 🥉
+Congratulations to all the winners! 🎊👏
+
+
+Get ready for an unforgettable AI experience! 💜 AINS 3.0 is coming this June with workshops, competitions, and more. Stay tuned! 
+ARTIFICIAL INTELLIGENCE NATIONAL SUMMIT
+
+AINS 3.0 is the Artificial Intelligence National Summit organized by IEEE CS INSAT SBC. Join us for its third edition.
+
+AINS offers something for everyone with captivating conferences, workshops, and activities.
+
+Put your skills to the test with our captivating hackathon & data science competition, which will be held during the summit.
+
+Late June, 2025. Tunisia.
+
+Join us at AI National Summit for an unforgettable AI experience!
+DEMOCRATIZING INTELLIGENCE
+
+Workshops
+
+Hackathon
+
+Data Science Competition
+
+Conferences
+
+Posters Session
+INTRODUCING THE NEWEST ADDITION TO AINS 3.0
+THIRD EDITION
+
+POSTER SESSION
+
+SHOWCASE YOUR STUDENT RESEARCH IN ARTIFICIAL INTELLIGENCE & NETWORK SYSTEMS AT THE PREMIER STUDENT RESEARCH EVENT! THE POSTER SESSION IS YOUR CHANCE TO PRESENT INNOVATIVE IDEAS, EXCHANGE INSIGHTS WITH EXPERTS, AND GET RECOGNIZED FOR YOUR WORK IN AI AND NETWORKS.
+
+RESEARCH TRACKS
+
+GENERATIVE AI & MULTI-MODALITY
+
+LANGUAGE MODELING & NLP
+
+MODEL SERVING & MLOPS
+
+COMPUTER VISION & OCR
+
+EDGE AI & MODEL OPTIMIZATION
+
+OTHERS
+
+AMbassadors 3.0 AINS 
+[
+  {
+    "name": "Molka Attia",
+    "position": "Ambassador",
+    "from": "IEEE ESSTHS SB"
+  },
+  {
+    "name": "Slim Selmi",
+    "position": "Ambassador",
+    "from": "IEEE SUPCOM SB"
+  },
+  {
+    "name": "Emna Gammoudi",
+    "position": "Ambassador",
+    "from": "IEEE TEK-UP SB"
+  },
+  {
+    "name": "Rania Akrout",
+    "position": "Ambassador",
+    "from": "IEEE ENISO SB"
+  },
+  {
+    "name": "Ayoub Bougacha",
+    "position": "Ambassador",
+    "from": "IEEE IIT SB"
+  },
+  {
+    "name": "Nour Ben Brahim",
+    "position": "Ambassador",
+    "from": "GDG On Campus ISAMM"
+  },
+  {
+    "name": "Amir Toumi",
+    "position": "Ambassador",
+    "from": "IEEE ISI MAHDIA SB"
+  },
+  {
+    "name": "Omar Jaoua",
+    "position": "Ambassador",
+    "from": "IEEE ENSIT SB"
+  },
+  {
+    "name": "Ouissale Hamhoum",
+    "position": "Ambassador",
+    "from": "IEEE ESPRIT SB"
+  },
+[
+  {
+    "name": "Yemen Meddeb",
+    "position": "Ambassador",
+    "from": "IEEE CS ISSATM SBC"
+  },
+  {
+    "name": "Firas Hamdi",
+    "position": "Ambassador",
+    "from": "IEEE ISIM MONASTIR SB"
+  },
+  {
+    "name": "Yasmine Ellouz",
+    "position": "Ambassador",
+    "from": "IEEE ISI SB"
+  },
+  {
+    "name": "Yacar Cerci",
+    "position": "Ambassador",
+    "from": "IEEE ISET RADES SB"
+  },
+  {
+    "name": "Emna Badri",
+    "position": "Ambassador",
+    "from": "IEEE ISSATSO CS SBC"
+  },
+  {
+    "name": "Mohamed Chahbani",
+    "position": "Ambassador",
+    "from": "IEEE ISTIC SB"
+  },
+  {
+    "name": "Mongia Bahri",
+    "position": "Ambassador",
+    "from": "ANT ISAM MANNOUBA"
+  },
+  {
+    "name": "Ismail Rebai",
+    "position": "Ambassador",
+    "from": "IEEE ISIMS SB"
+  }
+
+]
+
+
+
+Meet our instructor for the AI National Summit: Iheb Kesraoui! A machine learning engineer with a passion for MLOps, AI, and deep learning. Get ready to learn from the best!
+📢 The registration form drops tomorrow—stay tuned!
+
+AI National Summit 3.0 – Workshop Alert! 💜
+Join us for an exclusive workshop "AI Model Deployment: From Local to Cloud" with Iheb Kesraoui! 
+📅 Thursday, April 3
+⏰ 8 PM
+📍 Google Meet
+During this session, we'll cover AI model deployment across various platforms, including local environments, Docker Hub, AWS EC2 or Azure, and GitHub Actions CI/CD.
+Once you fill out the form, you will receive a confirmation email with the Google Meet link. 
+🔗 Register now through this link : [ https://forms.gle/FP3j6h2WRYRW7gDNA ] 
+
+AINS 3.0 Workshop Instructor 💜
+Achref Ben Ammar — ML engineer, INSAT student, and co-founder of Aiklyra. With experience at Ubotica and Callem AI, he’s bringing real-world AI insights to AINS 3.0! 
+The registration form will be posted today at 7 PM, so stay tuned.
+#AINS2025 #INSAT #IEEEINSAT #IEEECSINSATSBC
+
+
+
+AI National Summit 3.0 – Workshop Alert! 💜
+Join us for an exclusive workshop "Introduction to the transformer architecture" with Achref Ben Ammar! 
+📅 Tuesday, April 8
+⏰ 7 PM
+📍 Google Meet
+In this session, we’ll break down the core concepts behind the Transformer architecture — the foundation of today’s leading LLMs like Claude, GPT, and BERT. We’ll explore the basics of sequence models and how Transformers revolutionized them using attention and self-attention, enabling the capture of complex patterns in text without recurrence. Now the go-to architecture in NLP, Transformers have transformed how machines understand language.
+Once you fill out the form, you will receive a confirmation email with the Google Meet link. 
+
+
+AINS 3.0 Workshops 💜
+Meet Oussama Chelly – an AI expert, entrepreneur, and our workshop instructor! With 12+ years of experience at Microsoft and AWS, he’s now the founder of Oratio, building cutting-edge AI chatbots. Get ready for an inspiring session!
+
+
+AINS 3.0 Workshops 💜
+Join us this Saturday, April 12 at 8 PM for a chill but super insightful session:
+"Introduction to Natural Language Processing" with Oussama Chelly, part of AI National Summit 3.0.
+It’s a perfect opportunity to dive into the world of NLP, whether you’re just curious or planning to build the next ChatGPT.
+Location: Google Meet
+Register here: https://forms.gle/ftsDibaaJzT45YFCA
+Spots are limited, so don’t wait too long!
+
+Meet our instructor for the AI National Summit: Besma Guesmi! A lead data scientist at Ubotica Technologies with rich experience in robotics, electronics, and computer vision. Get ready to dive deep into innovation with a true expert!
+📢 The registration form drops tomorrow—stay tuned!
+
+AI National Summit 3.0 – Workshop Alert! 💜
+Join us for a beginner-friendly workshop "Introduction to Computer Vision" with Besma Guesmi!
+📅 Thursday, April 17
+⏰ 8 PM
+📍 Google Meet
+We'll explore the basics of computer vision, how it works, and where it's used—from facial recognition to self-driving cars. No prior experience needed, just bring your curiosity! 💡
+Meet Mariem Alaoui – AINS 3.0 Workshop Instructor!
+AI Consultant at YellowSys with hands-on experience in Generative AI, LLMs & Graph-based RAG. Passionate techie, leader, and data expert – ready to inspire at the Artificial Intelligence National Summit!
+AINS 3.0 Workshops | AI National Summit 3.0
+Ready to dive into the power of Retrieval-Augmented Generation?
+Join us for an insightful workshop:
+Introduction to Retrieval-Augmented Generation
+with Mariem Alaoui
+Date: Saturday, May 3
+Time: 8 PM
+Platform: Google Meet
+Whether you're new to RAG or looking to deepen your understanding of how external knowledge enhances language models, this session is for you.
+
+
+AINS 3.0 organizing committee
+
+[
+  {
+    "name": "Fayez Zouari",
+    "position": "Project Manager"
+  },
+  {
+    "name": "Makki Aloulou",
+    "position": "Program Manager"
+  },
+  {
+    "name": "Kacem Mathlouthi",
+    "position": "Technical Manager"
+  },
+  {
+    "name": "Aziz Amari",
+    "position": "Poster Session Manager"
+  },
+  {
+    "name": "Ahmed Amin Chabbah",
+    "position": "Community Manager"
+  },
+  {
+    "name": "Rayen Khammar",
+    "position": "Event Content Manager"
+  },
+  {
+    "name": "Ons Squidi",
+    "position": "Contact Manager"
+  },
+  {
+    "name": "Khar Ben Ayed",
+    "position": "Organization Manager"
+  },
+  {
+    "name": "Anira Lahiani",
+    "position": "Logistics Manager"
+  },
+  {
+    "name": "Yessin Kolsi",
+    "position": "Accommodation Manager"
+  },
+  {
+    "name": "Rakia Tsouri",
+    "position": "Participation Manager"
+  },
+  {
+    "name": "Enna Harzallah",
+    "position": "Communication Manager"
+  },
+  {
+    "name": "Baneb Kchaou",
+    "position": "Sponsoring Manager"
+  },
+  {
+    "name": "Aya Caha",
+    "position": "General Secretary"
+  },
+  {
+    "name": "Mohamed Adbeiwahed",
+    "position": "Treasurer"
+  }
+]
+
+We’re thrilled to unveil one of our official sponsors for AI National Summit 3.0! 💜
+A huge shoutout to IEEE Tunisia Section and Orange Digital Center for joining forces to support innovation, collaboration, and the future of AI in Tunisia!
+🚀 Save the Date! AI National Summit 3.0
+📅 13–15 June 2025 | 🌴 El Ksar Resort & Thalasso, Sousse, Tunisia 🇹🇳  
+Join the movement to democratize intelligence and shape the future of AI at this premier event! Luxury meets innovation at our stunning seaside venue.  
+✨ Registration details coming soon—stay tuned!  
+
+We’re thrilled to unveil one of our official sponsors for AI National Summit 3.0! 💜
+A huge shoutout to Vectors for joining forces to support innovation, collaboration, and the future of AI in Tunisia!
+Excited for AINS 3.0 💜 ?
+We’re thrilled to unveil one of our official sponsors for AI National Summit 3.0! 💜
+A huge shoutout to GOMYCODE for joining forces to support innovation, collaboration, and the future of AI in Tunisia!
+We’re thrilled to unveil one of our official sponsors for AI National Summit 3.0! 💜
+A huge shoutout to Thunder Codefor joining forces to support innovation, collaboration, and the future of AI in Tunisia!
+We’ve made it super easy for you! Just follow the registration steps and you’re in.
+Don’t miss out on one of the biggest AI events of the year!
+Register here: [ ains.tn ]
+AINS HACKATHON PRIZE POOL ANNOUNCEMENT  💜
+We’re beyond excited to reveal a total prize pool of 3500 DT for the AINS Hackathon, and that's not all! 
+🏆 1st Place: 2000 DT + 4 AI internship positions at Orange  Summer Challenge ( https://osc25.orange.tn/ )
+🥈 2nd Place: 1000 DT
+🥉 3rd Place: 500 DT
+A massive thank you to Orange Digital Center  for empowering young talents and supporting innovation through this amazing opportunity. 🧡
+🚨 Our Hackathon officially kicks off TODAY! 🚨
+Stay alert and follow our social media for live updates, surprises, and key announcements. 🎯📢
+Register now : [ ains.tn ]
+Let the hackathon begin! 🚀
+
+AINS DATA SCIENCE COMPETITION PRIZE POOL 💜
+💰 1000 DT up for grabs!
+🥇 1st Place: 700 DT
+🥈 2nd Place: 300 DT + GOMYCODE vouchers
+🥉 3rd Place: Coursera vouchers
+📊 Show off your skills and win big at AI National Summit 3.0!
+AINS BEST POSTER SESSION AWARD 💜
+🏆 500 DT for the most outstanding poster!
+Show your research, impress the jury, and win big!
+
+
+
+
+Speakers and their talks in AINS 3.0 2025
+
+{
+  "speakers": [
+    {
+      "name": "Hafedh Hichri",
+      "description": "Hafedh Hichri is a Machine Learning Engineer at Mermory and ML Researcher at PramalLC with strong experience in LLMs, AI pipelines, and TensorFlow. He holds a Master's in Computer Science from ENETCOM Sfax and previously worked at InstaDeep on model optimization. A Hugging Face Fellow, maintainer of Chonke, and active contributor to the Unsloth library and Hugging Face ecosystem. Hafedh combines deep technical skills with a passion for open-source and knowledge sharing.",
+    },
+    {
+      "name": "Mohamed Arbi Nsibi",
+      "description": "Mohamed Arbin Sibi is a Machine Learning Engineer at Carbon Insights and a final-year ICT Engineering student at SUPCOM. Passionate about MLOps and Generative AI, he leads and mentors in Google Developer Communities at SUPCOM and ISAMM. With hands-on experience from internships at Omicrone and IEEE Tunisia Section, and a top rank on Zindi, he brings practical ML skills and a strong commitment to innovation and collaboration in the African AI scene.",
+    }
+  ],
+  "Talks": [
+    {
+      "title": "Revolutionizing RAG with Chonkie",
+      "description": "Chonkie is an ultra-light and lightning-fast Python library designed for efficiently chunking texts. It seamlessly integrates with popular tokenizers, embedding models, and vector databases to streamline RAG pipelines.",
+      "presenter": Hafedh hichri 
+    },
+    {
+      "title": "Building Smarter RAG Pipelines with Qdrant",
+      "description": "This talk breaks down Retrieval-Augmented Generation from the ground up, explores Qdrant as a high-performance vector store, and walks through building scalable, efficient RAG pipelines with advanced retrieval techniques.",
+      "presenter": "Mohamed Arbi Nsibi"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

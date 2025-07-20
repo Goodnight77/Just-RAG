@@ -1,0 +1,348 @@
+AINS (Artificial Intelligence National Summit) - Structured Information
+
+AINS 2.0 (Past Edition)
+
+Organizing Committee
+
+Adem Jerbi - OC President
+
+Issra Brini - Participation Manager
+
+Ghaith Rouahi - Accommodation Manager
+
+Mahdi Kacem - Contact Manager
+
+Youssef Abbes - Logistics Manager
+
+Eya Belkhodja - General Secretary
+
+Yessine Turki - Treasurer & Finance Manager
+
+Raed Addala - Technical Activities Manager
+
+Hanine Khemir - Social Activities Manager
+
+Mayess Boussaada - Community Manager
+
+Ayoub Akremi - Audio-Visual Manager
+
+Rayen Hamza - Event Content Manager
+
+Yosr Attia - Communication Manager
+
+Ambassadors
+
+Amira Dhouib - IEEE ISI SB
+
+Ahmed Bouhlel - IEEE ESPRIT SB
+
+Kmar Turki - IEEE FSS SB
+
+Ahmed Yessine Bessrour - IEEE ISET RADES SB
+
+Nadhem Benhadjali - IEEE ENSI SB
+
+Mohamed Amine Maalej - IEEE FST SB
+
+Ranim Abdmouleh - IEEE ENIT SB
+
+Zeineb Louati - IEEE SUP'COM SB
+
+Rihab Marnissi - IEEE ENICARTHAGE SB
+
+Wiem Zeramdini - IEEE POLYTECH MONASTIR SB
+
+Speakers and Their Topics
+
+Mr. Elyes Manai
+
+Topic: "Explainable AI Agents"
+
+Description: Sharing expertise and knowledge on explainable artificial intelligence agents
+
+Mr. Hafedh Hichri
+
+Topic: "Introduction to HuggingFace Agents"
+
+Description: Fascinating presentation on HuggingFace Agents technology
+
+Mrs. Besma Guesmi
+
+Workshop: "Hands-on genAI for Computer Vision"
+
+Talk: "Bringing genAI to space"
+
+Role: Esteemed speaker and instructor
+
+Mr. Ankit Garg
+
+Background: Serial entrepreneur in AI industry, operating 3 GenAI ventures in Switzerland (Silver Brain AI, Celsius AI, ChemAssist AI). Investor in early-stage deep tech, IIT Delhi graduate with AI and business strategy education from MIT.
+
+Topic: "Ground Truths: Unpacking First Principle Challenges of genAI Agents"
+
+Mr. Jawher Jabri
+
+Topic: "LLM Agents"
+
+Description: Insightful talk bringing wealth of knowledge and expertise
+
+Instructors
+
+Mrs. Oumeima Aouadi
+
+Workshop: "Introduction to genAI"
+
+Background: Data consultant at EY's technology solution delivery consulting practice, expertise in business intelligence solutions with strong passion for AI, conducts ML workshops in student community
+
+Sponsors and Partners
+
+Official Sponsor: Elyadata
+
+Official Partner: ZINDI (for data science competition)
+
+Partner: Ami Assurances
+
+Support: Insat Press
+
+Competition Results
+
+Data Science Competition
+
+1st Place: Achref54637 - Achref Ben Ammar
+
+2nd Place (Tied):
+
+THO - Montassar Barguougui, Mohamed Dhia Mnasri
+
+Janda9li - Wissem Yousfi, Zakaria Soussi, Adam Fendri
+
+Hackathon
+
+1st Place: The Two Agents - Karim Aloulou, Nadia Bedhiafi
+
+2nd Place: Paranoid Android - Mohamed Amine Haouas, Achref Ben Ammar, Fayez Zouari, Kacem Mathlouthi
+
+3rd Place: FoxP - Youssef Fadhloun, Rayen Besbes, Alaeddine Zawali, Iyed Mdimegh
+
+Team Building
+
+Activity Provider: The Game Production
+-------------------------------------------------------------------------
+
+AINS 3.0 (Current Edition - June 2025)
+
+Event Details
+
+Dates: June 13-15, 2025
+
+Location: El Ksar Resort & Thalasso, Sousse, Tunisia
+
+Theme: "Democratizing Intelligence"
+
+Registration: ains.tn
+
+Organizing Committee
+
+Fayez Zouari - Project Manager
+
+Makki Aloulou - Program Manager
+
+Kacem Mathlouthi - Technical Manager
+
+Aziz Amari - Poster Session Manager
+
+Ahmed Amin Chabbah - Community Manager
+
+Rayen Khammar - Event Content Manager
+
+Ons Squidi - Contact Manager
+
+Khar Ben Ayed - Organization Manager
+
+Anira Lahiani - Logistics Manager
+
+Yessin Kolsi - Accommodation Manager
+
+Rakia Tsouri - Participation Manager
+
+Enna Harzallah - Communication Manager
+
+Baneb Kchaou - Sponsoring Manager
+
+Aya Caha - General Secretary
+
+Mohamed Adbeiwahed - Treasurer
+
+Ambassadors
+
+Molka Attia - IEEE ESSTHS SB
+
+Slim Selmi - IEEE SUPCOM SB
+
+Emna Gammoudi - IEEE TEK-UP SB
+
+Rania Akrout - IEEE ENISO SB
+
+Ayoub Bougacha - IEEE IIT SB
+
+Nour Ben Brahim - GDG On Campus ISAMM
+
+Amir Toumi - IEEE ISI MAHDIA SB
+
+Omar Jaoua - IEEE ENSIT SB
+
+Ouissale Hamhoum - IEEE ESPRIT SB
+
+Yemen Meddeb - IEEE CS ISSATM SBC
+
+Firas Hamdi - IEEE ISIM MONASTIR SB
+
+Yasmine Ellouz - IEEE ISI SB
+
+Yacar Cerci - IEEE ISET RADES SB
+
+Emna Badri - IEEE ISSATSO CS SBC
+
+Mohamed Chahbani - IEEE ISTIC SB
+
+Mongia Bahri - ANT ISAM MANNOUBA
+
+Ismail Rebai - IEEE ISIMS SB
+
+Workshop Instructors and Sessions
+
+Iheb Kesraoui
+
+Background: Machine learning engineer with passion for MLOps, AI, and deep learning
+
+Workshop: "AI Model Deployment: From Local to Cloud"
+
+Date: Thursday, April 3, 8 PM
+
+Content: AI model deployment across various platforms including local environments, Docker Hub, AWS EC2/Azure, and GitHub Actions CI/CD
+
+Achref Ben Ammar
+
+Background: ML engineer, INSAT student, co-founder of Aiklyra, experience at Ubotica and Callem AI
+
+Workshop: "Introduction to the Transformer Architecture"
+
+Date: Tuesday, April 8, 7 PM
+
+Content: Core concepts behind Transformer architecture, foundation of leading LLMs like Claude, GPT, and BERT
+
+Oussama Chelly
+
+Background: AI expert and entrepreneur with 12+ years at Microsoft and AWS, founder of Oratio (AI chatbots)
+
+Workshop: "Introduction to Natural Language Processing"
+
+Date: Saturday, April 12, 8 PM
+
+Besma Guesmi
+
+Background: Lead data scientist at Ubotica Technologies with experience in robotics, electronics, and computer vision
+
+Workshop: "Introduction to Computer Vision"
+
+Date: Thursday, April 17, 8 PM
+
+Content: Basics of computer vision, applications from facial recognition to self-driving cars
+
+Mariem Alaoui
+
+Background: AI Consultant at YellowSys with experience in Generative AI, LLMs & Graph-based RAG
+
+Workshop: "Introduction to Retrieval-Augmented Generation"
+
+Date: Saturday, May 3, 8 PM
+
+Confirmed Speakers
+
+Hafedh Hichri
+
+Background: Machine Learning Engineer at Mermory and ML Researcher at PramalLC, strong experience in LLMs, AI pipelines, and TensorFlow. Master's in Computer Science from ENETCOM Sfax, previously at InstaDeep. Hugging Face Fellow, maintainer of Chonke, contributor to Unsloth library.
+
+Talk: "Revolutionizing RAG with Chonkie"
+
+Description: Chonkie as an ultra-light, lightning-fast Python library for efficiently chunking texts, integrating with tokenizers, embedding models, and vector databases for RAG pipelines.
+
+Mohamed Arbi Nsibi
+
+Background: Machine Learning Engineer at Carbon Insights, final-year ICT Engineering student at SUPCOM. Passionate about MLOps and Generative AI, leads Google Developer Communities at SUPCOM and ISAMM, top rank on Zindi.
+
+Talk: "Building Smarter RAG Pipelines with Qdrant"
+
+Description: Breaking down Retrieval-Augmented Generation, exploring Qdrant as high-performance vector store, building scalable RAG pipelines with advanced retrieval techniques.
+
+Event Components
+
+Workshops: Multiple hands-on learning sessions
+
+Hackathon: Team-based coding competition
+
+Data Science Competition: Individual/team data challenges
+
+Conferences: Expert talks and presentations
+
+Poster Session: Student research showcase
+
+New thing in this edition Research Tracks for Poster Session
+
+Generative AI & Multi-modality
+
+Language Modeling & NLP
+
+Model Serving & MLOps
+
+Computer Vision & OCR
+
+Edge AI & Model Optimization
+
+Others
+
+Prize Pools
+
+Hackathon
+
+Total Prize Pool: 3,500 DT
+
+1st Place: 2,000 DT + 4 AI internship positions at Orange Summer Challenge
+
+2nd Place: 1,000 DT
+
+3rd Place: 500 DT
+
+Data Science Competition
+
+Total Prize Pool: 1,000 DT
+
+1st Place: 700 DT
+
+2nd Place: 300 DT + GOMYCODE vouchers
+
+3rd Place: Coursera vouchers
+
+Best Poster Session Award
+
+Prize: 500 DT for most outstanding poster
+
+Sponsors and Partners
+
+IEEE Tunisia Section
+
+Orange Digital Center
+
+Vectors
+
+GOMYCODE
+
+Thunder Code
+
+Registration Information
+
+Website: ains.tn
+
+Registration Form: Available on website
+
+Info Sessions: Conducted via Google Meet with ambassadors
