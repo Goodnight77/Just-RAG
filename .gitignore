@@ -15,8 +15,10 @@ qdrant/app.py
 qdrant/runnable_script.py
 ./data
 data
-
-
+AINS_qdrant_talk/app.py
+AINS_qdrant_talk/runnable_script.py
+AINS_qdrant_talk/qdrant.ipynb
 qdrant/.python-version
-
+AINS_qdrant_talk/ains_text_structured.txt
+AINS_qdrant_talk/ains_data.txt
 sabrina_simple_rag
