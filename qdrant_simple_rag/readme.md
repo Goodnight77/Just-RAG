@@ -92,7 +92,7 @@ pip install -r requirements.txt
 1. Go to [Google AI Studio](https://makersuite.google.com/app/apikey)
 2. Create a new API key
 3. Create a `.env` file in the project folder:
-
+> You can use .env.example as a template 
 ```
 GEMINI_API_KEY=your_api_key_here
 ```
@@ -177,7 +177,7 @@ If you're using a different PDF, you can run a command like this:
 !python main.py --document /content/rust_book.pdf
 ```
 
-> Note: This might take a while, especially since the [Rust book](https://www.scs.stanford.edu/~zyedidia/docs/rust/rust_book.pdf) is 670 pages long!
+> Note: This might take a while, especially since the book we are using [Rust book](https://www.scs.stanford.edu/~zyedidia/docs/rust/rust_book.pdf) is 670 pages long!
 
 ### Running the Notebook on Colab (Recommended)
 
