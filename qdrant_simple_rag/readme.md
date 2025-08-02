@@ -1,4 +1,4 @@
-# Qdrant RAG Chatbot
+# RAG Chatbot with Qdrant, Gemma3, and Docling
 
 This chatbot answers questions about your documents using Retrieval-Augmented Generation (RAG). Simply upload a PDF and start chatting! Inspired by Sabrina Aquino, this version offers a more structured approach with runnable scripts.
 
