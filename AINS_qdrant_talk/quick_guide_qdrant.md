@@ -267,6 +267,10 @@ This should return JSON with your collections.
 - [Interactive Tutorials](https://88d28cad-e92f-4c46-bb89-5107eda3e405.europe-west3-0.gcp.cloud.qdrant.io:6333/dashboard#/tutorial)
 ---
 
+## Tutorial Article 
+For a detailed step-by-step guide on how to setup Qdrant, read the full tutorial on Medium:
+[**Why Qdrant Will Be Your Favorite Vector Database (Setup in 10 Minutes)**](https://medium.com/@mohammedarbinsibi/why-qdrant-will-be-your-favorite-vector-database-setup-in-10-minutes-bc0a79651a14)
+
 ## Summary
 
 You've successfully:
