@@ -130,7 +130,9 @@ QDRANT_URL = "your-qdrant-url"          # Optional for local deployment
 
 This system demonstrates advanced RAG (Retrieval-Augmented Generation) techniques with agentic AI workflows for robust document analysis and question answering.
 
-
+## Tutorial Article 
+For a detailed step-by-step guide on building this system, read the full tutorial on Medium:
+[**How I Built an Agentic RAG System with Qdrant to Chat with Any PDF**](https://medium.com/@mohammedarbinsibi/how-i-built-an-agentic-rag-system-with-qdrant-to-chat-with-any-pdf-4f680e93397e)
 
 
 
