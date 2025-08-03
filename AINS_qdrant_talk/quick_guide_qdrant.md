@@ -268,7 +268,7 @@ This should return JSON with your collections.
 ---
 
 ## Tutorial Article 
-For a detailed step-by-step guide on how to setup Qdrant, read the full tutorial on Medium:
+For a detailed step-by-step guide on how to setup Qdrant, read the full tutorial on Medium:  <br>
 [**Why Qdrant Will Be Your Favorite Vector Database (Setup in 10 Minutes)**](https://medium.com/@mohammedarbinsibi/why-qdrant-will-be-your-favorite-vector-database-setup-in-10-minutes-bc0a79651a14)
 
 ## Summary
