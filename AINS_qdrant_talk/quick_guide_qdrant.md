@@ -273,7 +273,7 @@ For a detailed step-by-step guide on how to setup Qdrant, read the full tutorial
 
 ## Summary
 
-You've successfully:
+You've successfully:  <br>
 ✅ Installed Qdrant using Docker or locally  
 ✅ Created your first collection  
 ✅ Added vector data with payloads  
