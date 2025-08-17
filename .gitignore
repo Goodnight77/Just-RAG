@@ -25,6 +25,8 @@ qdrant_simple_rag/setup.py
 
 *__pycache__/
 *.env
+AINS_qdrant_talk/umap_3d_visualization.html
 # new folders 
 reranker/
 knowledge_graph/
+Voice-RAG/
