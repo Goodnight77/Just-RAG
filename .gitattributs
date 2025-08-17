@@ -1,1 +1,3 @@
 *.html text eol=lf
+*.html linguist-vendored
+*.html linguist-generated

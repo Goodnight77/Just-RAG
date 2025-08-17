@@ -21,4 +21,10 @@ AINS_qdrant_talk/qdrant.ipynb
 qdrant/.python-version
 AINS_qdrant_talk/ains_text_structured.txt
 AINS_qdrant_talk/ains_data.txt
-sabrina_simple_rag
+qdrant_simple_rag/setup.py
+
+*__pycache__/
+*.env
+# new folders 
+reranker/
+knowledge_graph/
