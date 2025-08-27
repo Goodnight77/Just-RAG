@@ -4,7 +4,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1tW5ohL1ZDNS-39lnfpht9QLDK2x9_0TZ/view?usp=sharing)
 
-
+## Overview
 This interactive notebook demonstrates how to build a Retrieval-Augmented Generation (RAG) pipeline using Qdrant as a vector database and LangChain for orchestration, with a focus on asking questions about the official Qdrant documentation. By providing links to selected Qdrant documentation pages, the notebook shows how to:
 
 - **Extract and process website content:** Automatically fetch and parse web pages to obtain raw text data.
@@ -13,6 +13,31 @@ This interactive notebook demonstrates how to build a Retrieval-Augmented Genera
 - **Retrieve relevant information:** Use semantic search to find the most relevant content chunks in response to user queries.
 - **Build context and generate answers:** Assemble retrieved information into a coherent context and leverage an LLM to answer questions based on the ingested website data.
 
+## workflow 
+```mermaid
+flowchart TD
+    subgraph Data_Preparation[Data Preparation]
+        A[Qdrant Documentation 
+        Links]
+        B[Extract Web Page Content]
+        C[Split Text into Chunks]
+        D[OpenAI Embeddings]
+        E[Qdrant Vector DB]
+        A --> B --> C --> D --> E
+    end
+
+    subgraph Retrieval_QA[Retrieval & QA]
+        F[User Query]
+        G[OpenAI Embedding Query]
+        H[Qdrant Similarity Search]
+        I[Build Context]
+        J[OpenAI LLM Answer]
+        K[Display Answer]
+        F --> G --> H --> I --> J --> K
+    end
+
+    E -.-> H
+```
 
 **Qdrant Documentation Links Used in This Notebook:**
 
