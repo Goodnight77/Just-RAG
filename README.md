@@ -179,3 +179,12 @@ For questions or support, connect with [Mohamed Arbi Nsibi](https://www.linkedin
 ## Acknowledgments
 
 Special thanks to AINS 3.0 organizers and the open source community for making these tutorials possible.
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Goodnight77/Just-RAG&type=Timeline)](https://www.star-history.com/#Goodnight77/Just-RAG&Timeline)
+
+
+
