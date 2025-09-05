@@ -1,5 +1,0 @@
-qdrant-client
-docling
-fastembed
-google-generativeai
-python-dotenv
