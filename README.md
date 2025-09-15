@@ -1,9 +1,8 @@
 
-# RAG Tutorials
+# Just RAG Tutorials
 
-A collection of Retrieval-Augmented Generation (RAG) tutorials and examples using [Qdrant](https://qdrant.tech/) vector database and modern AI models.
-
-
+A collection of Retrieval-Augmented Generation (RAG) tutorials and examples using [Qdrant](https://qdrant.tech/) vector database and modern AI models and frameworks.
+![dexter](assets/dexter.jpeg)
 ## Project Overview
 
 | Folder                | Description                                                                 | Technologies / Models / Frameworks                |
@@ -12,6 +11,7 @@ A collection of Retrieval-Augmented Generation (RAG) tutorials and examples usin
 | [Ask-your-websites](Ask-your-websites)     | RAG pipeline for Qdrant docs Q&A from web links, with Colab support.        | Qdrant, LangChain, OpenAI          |
 | [Docling-Qdrant-RAG](Docling-Qdrant-RAG) (Beginner-friendly implementation for quick starts)    | RAG chatbot for PDF Q&A using Docling and Gemini AI.                        | Qdrant, Docling, Gemini AI, BGE Embeddings        |
 | [Agentic-Qdrant-RAG](Agentic-Qdrant-RAG)   | Advanced agentic RAG system for intelligent PDF analysis and retrieval.     | Qdrant, LangGraph, OpenAI GPT-4o Vision, pypdfium2 |
+| [Bolt-RAG-with-Qroq-Qdrant](Bolt-RAG-with-Qroq-Qdrant)   | Lightning-fast PDF chat with multi-session support and modern UI.           | Qdrant, Groq, Cohere, LangChain, Streamlit        |
 
 ## Use Cases
 
