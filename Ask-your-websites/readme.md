@@ -45,8 +45,7 @@ flowchart TD
 - [FastEmbed Semantic Search](https://qdrant.tech/documentation/fastembed/fastembed-semantic-search/)
 - [What is Vector Quantization?](https://qdrant.tech/articles/what-is-vector-quantization/)
 - [Multiple Partitions Guide](https://qdrant.tech/documentation/guides/multiple-partitions/)
-- you can add whatever you want 
-
+ 
 ---
 
 Contributions are welcome!
