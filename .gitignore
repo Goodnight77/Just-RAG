@@ -2,7 +2,7 @@
 myenv
 Voice-assistant-kb
 /graphrag
-.venv
+*.venv
 reranking.ipynb
 setup.sh
 qdrant/ains_text_structured.txt
@@ -11,7 +11,7 @@ qdrant/ains_data.txt
 qdrant/qdrant.ipynb
 rag_techniques
 qdrant/app.py
-
+xignore
 qdrant/runnable_script.py
 ./data
 data
@@ -30,3 +30,7 @@ AINS_qdrant_talk/umap_3d_visualization.html
 reranker/
 knowledge_graph/
 Voice-RAG/
+qdrant_simple_rag_old/
+Bolt-RAG-with-Qroq-Qdrant/app.py
+*/__pycache__
+*/.streamlit
