@@ -2,7 +2,11 @@
 # Just RAG Tutorials
 
 A collection of Retrieval-Augmented Generation (RAG) tutorials and examples using [Qdrant](https://qdrant.tech/) vector database and modern AI models and frameworks.
-![dexter](assets/dexter.jpeg)
+
+<p align="center">
+  <img src="assets/dexter.jpeg" alt="dexter" height="270" width="360"/>
+</p>
+
 ## Project Overview
 
 | Folder                | Description                                                                 | Technologies / Models / Frameworks                |
