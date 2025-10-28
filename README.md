@@ -1,11 +1,33 @@
 
-# Just RAG Tutorials
+<div align="center">
+<img src="assets/dexter.jpeg" alt="Just RAG" height="300" width="440">
 
-A collection of Retrieval-Augmented Generation (RAG) tutorials and examples using [Qdrant](https://qdrant.tech/) vector database and modern AI models and frameworks.
+<h1>Just RAG Tutorials</h1>
 
-<p align="center">
-  <img src="assets/dexter.jpeg" alt="dexter" height="330" width="440"/>
+<p>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="#"><img src="https://img.shields.io/github/last-commit/Goodnight77/Just-RAG" alt="GitHub last commit"></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/Goodnight77/Just-RAG?style=social" alt="GitHub stars"></a>
+  <a href="https://discord.gg/qdrant"><img src="https://img.shields.io/badge/Discord-Qdrant%20Community-blueviolet" alt="Discord"></a>
 </p>
+
+<p>
+    ✨ A curated collection of Retrieval-Augmented Generation (RAG) tutorials and examples using <a href="https://qdrant.tech/">Qdrant</a> vector database and modern AI models. ✨
+</p>
+
+<div align="center">
+  <h3>
+    <a href="#project-overview">Projects</a> |
+    <a href="#use-cases">Use Cases</a> |
+    <a href="#featured-articles">Articles</a> |
+    <a href="#contributing">Contributing</a> |
+    <a href="#contact">Contact</a>
+  </h3>
+</div>
+
+</div>
+
+---
 
 ## Project Overview
 
