@@ -50,3 +50,10 @@ flowchart LR
 2. Click "Process" to index documents
 3. Ask questions about your documents
 4. Switch between sessions to manage different contexts
+
+## References
+
+- [Qdrant Homepage](http://qdrant.tech/?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
+- [Qdrant Documentation](https://qdrant.tech/documentation/?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
+- [Qdrant Cloud Signup](https://cloud.qdrant.io/signup?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
+- [Cohere embeddings](https://docs.cohere.com/docs/embeddings)
