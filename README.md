@@ -9,6 +9,7 @@
   <a href="#"><img src="https://img.shields.io/github/last-commit/Goodnight77/Just-RAG" alt="GitHub last commit"></a>
   <a href="#"><img src="https://img.shields.io/github/stars/Goodnight77/Just-RAG?style=social" alt="GitHub stars"></a>
   <a href="https://discord.gg/qdrant"><img src="https://img.shields.io/badge/Discord-Qdrant%20Community-blueviolet" alt="Discord"></a>
+  <a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/badge/LangChain-GitHub-000?logo=github" alt="LangChain GitHub"></a>
 </p>
 
 <p>
