@@ -34,3 +34,5 @@ qdrant_simple_rag_old/
 Bolt-RAG-with-Qroq-Qdrant/app.py
 */__pycache__
 */.streamlit
+
+Bolt-RAG-with-Qroq-and-Qdrant/app.py
