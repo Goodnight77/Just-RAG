@@ -41,11 +41,13 @@ flowchart TD
 
 **Qdrant Documentation Links Used in This Notebook:**
 
-- [Qdrant Quickstart](https://qdrant.tech/documentation/quickstart/)
+- [Qdrant Homepage](http://qdrant.tech/?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
+- [Qdrant Documentation](https://qdrant.tech/documentation/?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
+- [Qdrant Cloud Signup](https://cloud.qdrant.io/signup?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
 - [FastEmbed Semantic Search](https://qdrant.tech/documentation/fastembed/fastembed-semantic-search/)
 - [What is Vector Quantization?](https://qdrant.tech/articles/what-is-vector-quantization/)
 - [Multiple Partitions Guide](https://qdrant.tech/documentation/guides/multiple-partitions/)
- 
+
 ---
 
 Contributions are welcome!
