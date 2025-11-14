@@ -260,7 +260,9 @@ This should return JSON with your collections.
 
 ### Useful Resources
 
-- [Official Documentation](https://qdrant.tech/documentation/)
+- [Qdrant Documentation](https://qdrant.tech/documentation/?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
+- [Qdrant Homepage](http://qdrant.tech/?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
+- [Qdrant Cloud Signup](https://cloud.qdrant.io/signup?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
 - [Python Client Examples](https://github.com/qdrant/qdrant-client)
 - [REST API Reference](https://qdrant.github.io/qdrant/redoc/index.html)
 - [Community Examples](https://qdrant.tech/documentation/examples/)
