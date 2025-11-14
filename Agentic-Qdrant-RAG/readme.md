@@ -140,5 +140,6 @@ For a detailed step-by-step guide on building this system, read the full tutoria
 * [LangChain](https://github.com/langchain-ai/langchain)
 * [LangGraph](https://langchain-ai.github.io/langgraph/)
 * [LangGraph Agentic RAG](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_agentic_rag.ipynb)
-* [Qdrant documentation](https://qdrant.tech/documentation/)
+- [Qdrant Documentation](https://qdrant.tech/documentation/?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
+* [Qdrant Cloud Signup](https://cloud.qdrant.io/signup?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
 * [LSTM-GNN paper](https://arxiv.org/pdf/2502.15813)
