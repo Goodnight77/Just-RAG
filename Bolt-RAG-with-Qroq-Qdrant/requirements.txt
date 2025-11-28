@@ -1,9 +1,0 @@
-langchain-cohere
-langchain-groq
-streamlit
-python-dotenv
-langchain-community
-langchain-qdrant
-qdrant-client
-pypdf
-langchain 
