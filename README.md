@@ -84,13 +84,11 @@ Stay tuned for updates!
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
 
-## Contact
-
-For questions or support, connect with [Mohamed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/) on LinkedIn.
-
 ## Acknowledgments
 
 Special thanks to the wonderful open source community and [Qdrant](https://qdrant.tech/) for making these tutorials possible.
+
+> For questions or support, connect with [Mohamed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/) on LinkedIn.
 
 
 <!-- 
