@@ -38,7 +38,7 @@
 | [Ask-your-websites](Ask-your-websites)     | RAG pipeline for Qdrant docs Q&A from web links, with Colab support.        | Qdrant, LangChain, OpenAI          |
 | [Docling-Qdrant-RAG](Docling-Qdrant-RAG) (Beginner-friendly implementation for quick starts)    | RAG chatbot for PDF Q&A using Docling and Gemini AI.                        | Qdrant, Docling, Gemini AI, BGE Embeddings        |
 | [Agentic-Qdrant-RAG](Agentic-Qdrant-RAG)   | Advanced agentic RAG system for intelligent PDF analysis and retrieval.     | Qdrant, LangGraph, OpenAI GPT-4o Vision, pypdfium2 |
-| [Bolt-RAG-with-Qroq-and-Qdrant](Bolt-RAG-with-Qroq-and-Qdrant)   | Lightning-fast PDF chat with multi-session support and modern UI.           | Qdrant, Groq, Cohere, LangChain, Streamlit        |
+| [Bolt-RAG-with-Qroq-Qdrant](Bolt-RAG-with-Qroq-Qdrant)   | Lightning-fast PDF chat with multi-session support and modern UI.           | Qdrant, Groq, Cohere, LangChain, Streamlit        |
 
 ## Use Cases
 
