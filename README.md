@@ -34,7 +34,7 @@
 
 | Folder                | Description                                                                 | Technologies / Models / Frameworks                |
 |-----------------------|-----------------------------------------------------------------------------|---------------------------------------------------|
-| [AINS_qdrant_talk](AINS_qdrant_talk)      | Qdrant tutorial and hands-on notebooks for beginners and workshops.         | Qdrant, langChain                    |
+| [AINS_qdrant_talk](AINS_qdrant_talk)      | Qdrant tutorial and hands-on notebooks for beginners and workshops.         | Qdrant, LangChain                    |
 | [Ask-your-websites](Ask-your-websites)     | RAG pipeline for Qdrant docs Q&A from web links, with Colab support.        | Qdrant, LangChain, OpenAI          |
 | [Docling-Qdrant-RAG](Docling-Qdrant-RAG) (Beginner-friendly implementation for quick starts)    | RAG chatbot for PDF Q&A using Docling and Gemini AI.                        | Qdrant, Docling, Gemini AI, BGE Embeddings        |
 | [Agentic-Qdrant-RAG](Agentic-Qdrant-RAG)   | Advanced agentic RAG system for intelligent PDF analysis and retrieval.     | Qdrant, LangGraph, OpenAI GPT-4o Vision, pypdfium2 |
@@ -82,7 +82,7 @@ Stay tuned for updates!
 
 ## Contributing
 
-Contributions are welcome! Please see [CONTRIBUTING.md](contribution.md) for guidelines on how to contribute to this project.
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
 
 ## Contact
 
