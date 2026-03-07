@@ -1,0 +1,17 @@
+name: PR and Issue Tracker
+
+on:
+  pull_request:
+    types: [opened, reopened]
+  issues:
+    types: [opened, reopened]
+
+jobs:
+  log-event:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print event details
+        run: |
+          echo "Event: ${{ github.event_name }}"
+          echo "Title: ${{ github.event.pull_request.title || github.event.issue.title }}"
+          echo "URL: ${{ github.event.pull_request.html_url || github.event.issue.html_url }}"
