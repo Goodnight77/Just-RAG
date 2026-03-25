@@ -76,7 +76,9 @@ You can also run this notebook directly in Google Colab, which provides a free, 
 
 Special thanks to AINS3.0 Organizers for the opportunity to conduct this talk.
 
-## License
-This project is open-source. Feel free to modify and extend it!
+## References
 
-- You want to connect or you have questions? Feel free to DM me on Linkedin: [Mohamed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
+- [Qdrant Homepage](http://qdrant.tech/?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
+- [Qdrant Documentation](https://qdrant.tech/documentation/?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
+- [Qdrant Cloud Sign Up](https://cloud.qdrant.io/signup?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
+- [Subscribe to the Qdrant Newsletter](https://qdrant.tech/subscribe/?utm_medium=referral&utm_source=stars&utm_campaign=devrel&utm_content=mohammed-arbi)
