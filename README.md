@@ -40,6 +40,10 @@
 | [Agentic-Qdrant-RAG](Agentic-Qdrant-RAG)   | Advanced agentic RAG system for intelligent PDF analysis and retrieval.     | Qdrant, LangGraph, OpenAI GPT-4o Vision, pypdfium2 |
 | [Bolt-RAG-with-Qroq-Qdrant](Bolt-RAG-with-Qroq-Qdrant)   | Lightning-fast PDF chat with multi-session support and modern UI.           | Qdrant, Groq, Cohere, LangChain, Streamlit        |
 
+## Related Repository
+
+- [rag-skills](https://github.com/Goodnight77/rag-skills): A companion repository focused on practical RAG skills, reusable patterns, and hands-on building blocks for retrieval-augmented generation workflows.
+
 ## Use Cases
 
 **Enterprise Applications:**
